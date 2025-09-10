@@ -1,0 +1,13 @@
+    body {
+    background-color: rgb(9, 227, 235); /* Fondo gris claro */
+}
+
+h1 {
+    color: purple; /* Título en morado */
+    font-size: 30px; /* Tamaño de fuente */
+}
+
+p {
+    color: #1a0303; /* Color oscuro para el texto */
+    font-family: Arial, sans-serif; /* Fuente de texto */
+}
